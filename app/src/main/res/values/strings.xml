@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Remainder</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="remainderItems">
+
+        <item>No notification</item>
+        <item>10 minutes before</item>
+        <item>30 minutes before</item>
+        <item>1 hour before</item>
+        <item>Custom,.....</item>
+
+    </string-array>
+
+    <string-array name="repeatItems">
+
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+        <item>Yearly</item>
+
+    </string-array>
+
+
+    <string-array name="timeZoneItems">
+
+        <item>Device Time</item>
+        <item>Other Time</item>
+
+    </string-array>
+</resources>
